@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-  println("hi mam");
+  println("hi maam");
   int a,b,c;
   c=a+b;
-  Printf("Aswer is ");
+  Printf("Answer is ");
 }
