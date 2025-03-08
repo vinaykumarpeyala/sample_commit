@@ -4,5 +4,5 @@ int main()
   println("hi maam");
   int a,b,c;
   c=a+b;
-  Printf("Answer is ");
+  Printf("Answe is ");
 }
