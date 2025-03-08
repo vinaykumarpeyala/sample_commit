@@ -1,5 +1,8 @@
 #include<stdio.h>
-void main()
+int main()
 {
-println("hi mam");
+  println("hi mam");
+  int a,b,c;
+  c=a+b;
+  Printf("Aswer is ");
 }
